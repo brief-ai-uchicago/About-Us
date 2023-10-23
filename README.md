@@ -1,4 +1,4 @@
-# Welcome to Brief.AI
+# Welcome to BRIEF.AI
 ![image](https://github.com/brief-ai-uchicago/Branding/blob/main/Brief.AI/Logo_Name.svg)
 
 ### Getting Started
