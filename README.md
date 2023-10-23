@@ -20,9 +20,6 @@ designed to gauge the sentiment of earnings calls.
 transcripts and financial statements, including 10K and 10Q documents. This elevates user experience, ensuring
 immediate access to critical information without manual data trawling.
 
-- Integrated Excel Functionality: Brief.AI has embedded a seamless Excel plugin, facilitating financial analysts to
-integrate insights smoothly into their financial models.
-
 ### Organization Structure
 ```
 brief.ai
