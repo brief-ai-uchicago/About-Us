@@ -29,6 +29,9 @@ brief.ai
 |_____ About-Us
 |_____ Brief-AI
 |_____ Javi-The-Earnings-Call-Expert
+|_____ LongShort-Dataset
+|_____ LongShort-7B-Instruct-hf
+|_____ LongShort-13B-Instruct-hf
 |_____ Branding
 ```
 
