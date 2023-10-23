@@ -8,7 +8,7 @@ earnings calls by harnessing large language models.
 
 Distinguished Features of Brief.AI:
 
-- Advanced Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
+- Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts and annual quarterly filings.
 
 - Comprehensive Topics and Sentiment Analysis: Beyond static numerical data, Brief.AI delves deep into the
@@ -22,3 +22,13 @@ immediate access to critical information without manual data trawling.
 
 - Integrated Excel Functionality: Brief.AI has embedded a seamless Excel plugin, facilitating financial analysts to
 integrate insights smoothly into their financial models.
+
+### Organization Structure
+```
+brief.ai
+|_____ About-Us
+|_____ Brief-AI
+|_____ Javi-The-Earnings-Call-Expert
+|_____ Branding
+```
+
