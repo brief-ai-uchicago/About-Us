@@ -1,7 +1,7 @@
 # Welcome to Brief.AI
 ![image](https://github.com/brief-ai-uchicago/Branding/blob/main/Brief.AI/Logo_Name.svg)
 
-**Getting Started**
+### Getting Started
 
 Brief.AI is an innovative platform tailored to hedge funds and investment banks, revolutionizing insights into
 earnings calls by harnessing large language models.
