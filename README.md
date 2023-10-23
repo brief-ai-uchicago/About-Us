@@ -1,14 +1,14 @@
-# Welcome to BRIEF.AI
-![image](https://github.com/brief-ai-uchicago/Branding/blob/main/Brief.AI/Logo_Name.svg)
-
-### Getting Started
+<div align="center">
+<img  style="vertical-align:middle" src="https://github.com/brief-ai-uchicago/Branding/blob/main/Brief.AI/Logo_blue.svg" width="100px" height="100px"/> 
+<h1 style="">Welcome to Brief.AI</h1>
+</div>
 
 Brief.AI is an innovative platform tailored to hedge funds and investment banks, revolutionizing insights into
 earnings calls by harnessing large language models.
 
 Distinguished Features of Brief.AI:
 
-- Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
+- Advanced Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts and annual quarterly filings.
 
 - Comprehensive Topics and Sentiment Analysis: Beyond static numerical data, Brief.AI delves deep into the
@@ -22,5 +22,3 @@ immediate access to critical information without manual data trawling.
 
 - Integrated Excel Functionality: Brief.AI has embedded a seamless Excel plugin, facilitating financial analysts to
 integrate insights smoothly into their financial models.
-
-
