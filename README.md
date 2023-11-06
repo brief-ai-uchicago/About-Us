@@ -10,38 +10,39 @@ earnings calls by harnessing large language models.
 
 Our platform aims to be the voice for any executive or analyst on the buy side or sell-side trying to analyze earning call transcripts through two products: 
 
-💬 **Question Answering over Earnings Call Transcript** 
-* Javi: The intelligent chatbot can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
+💬 **Javi - Question Answering over Earnings Call Transcript** 
+* The intelligent chatbot can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
-❓ **KPI Extractor**
-* Long-Short: This model efficiently extracts crucial performance indicators and financial metrics
+❓ **Long-Short - KPI Extractor**
+* This model efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts.
 
 <h1 style="">🚀 What can this help with?</h1>
 
-📃 **Earnings Calls Analysis:**
-
-This pivotal feature of our product revolves around the identification and extraction of financial Key Performance Indicators (KPIs) from earnings calls. Utilizing a finely tuned Language Model (LLM), we offer a fast, reliable, and data-driven approach to analyzing earnings calls. It enables users to effortlessly access vital financial insights, making it an indispensable tool for financial professionals, investors, and anyone interested in extracting valuable data from these calls.
 
 🔗 **Chatbot for Earnings Calls:**
 
 Our chatbot amplifies the functionality of large language models, empowering users to engage in interactive conversations with earnings calls. This versatile tool serves multiple purposes, such as:
 
-🤖 *Comparison across multiple documents*
+-  🤖 *Comparison across multiple documents*
 
-The chatbot uses an agent to compare queries that retrieves multiple documents and is able to create a chain of thought reasoning chain to answer queries.
+   - The chatbot uses an agent to compare queries that retrieves multiple documents and is able to create a chain of thought reasoning chain to answer queries.
 
-🧠 *Memory:*
+- 🧠 *Memory:*
 
-Memory refers to persisting state between calls of a large language model. You can continue to ask follow-up questions from initial queries without restating the context.
+    - Memory refers to persisting state between calls of a large language model. You can continue to ask follow-up questions from initial queries without restating the context.
 
-⚡ *Punctual Information:* 
+- ⚡ *Punctual Information:* 
 
-The chatbot provides quick and precise responses to specific questions, making it ideal for extracting timely information from earnings calls.
+    - The chatbot provides quick and precise responses to specific questions, making it ideal for extracting timely information from earnings calls.
 
-🚨 *Sentiment Analysis:*
+- 🚨 *Sentiment Analysis:*
 
-Users can gauge the sentiment and emotional tone of earnings calls, helping them make more informed investment decisions.
+    - Users can gauge the sentiment and emotional tone of earnings calls, helping them make more informed investment decisions.
+
+📃 **Earnings Calls Analysis:**
+
+This pivotal feature of our product revolves around the identification and extraction of financial Key Performance Indicators (KPIs) from earnings calls. Utilizing a finely tuned Language Model (LLM), we offer a fast, reliable, and data-driven approach to analyzing earnings calls. It enables users to effortlessly access vital financial insights, making it an indispensable tool for financial professionals, investors, and anyone interested in extracting valuable data from these calls.
 
 For more detailed information on these capabilities and concepts, please refer to our comprehensive product documentation.
 
