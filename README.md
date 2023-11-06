@@ -20,12 +20,11 @@ from a comprehensive collection of earnings call transcripts and annual quarterl
 
 <h1 style="">📖 Documentation</h1>
 For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
-* 
-[Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert) (Chatbot)
-* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset) (Dataset for finetuning)
-* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf) (Finetuned model for KPI Extraction)
-* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf) (Finetuned model for KPI Extraction)
-* [Branding](https://github.com/brief-ai-uchicago/Branding) (Branding docs)
+*[Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert) (Chatbot)
+*[LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset) (Dataset for finetuning)
+*[LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf) (Finetuned model for KPI Extraction)
+*[LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf) (Finetuned model for KPI Extraction)
+*[Branding](https://github.com/brief-ai-uchicago/Branding) (Branding docs)
 
 ### Organization Structure
 ```
