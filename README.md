@@ -44,11 +44,11 @@ Our chatbot amplifies the functionality of large language models, empowering use
 
 - 📚 Concise answers
   
-      - Utilizing cutting-edge language models, our system delivers succinct, structured answers extracted from verbose earnings call transcripts, streamlining the distillation of key performance indicators (KPIs) for analysts and executives.
+    - Utilizing cutting-edge language models, our system delivers succinct, structured answers extracted from verbose earnings call transcripts, streamlining the distillation of key performance indicators (KPIs) for analysts and executives.
   
 - ❓ Effective KPI extraction from long transcripts
   
-      - Extracting data from unstructured sources like PDFs has become crucial for businesses, researchers, and individuals. Traditional manual methods are slow and error-prone, necessitating more efficient alternatives.
+    - Extracting data from unstructured sources like PDFs has become crucial for businesses, researchers, and individuals. Traditional manual methods are slow and error-prone, necessitating more efficient alternatives.
 
 For more detailed information on these capabilities and concepts, please refer to our comprehensive product documentation.
 
@@ -57,10 +57,16 @@ For a complete guide to the documentation, please follow the steps outlined belo
 
 
 * [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert) (Chatbot)
-- [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
-- [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf): A fine-tuned model designed for KPI (Key Performance Indicators) extraction.
-- [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf): A fine-tuned model aimed at extracting KPIs.
-- [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
+  
+* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
+  
+* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf): A fine-tuned model designed for KPI (Key Performance Indicators) extraction.
+  
+* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf): A fine-tuned model aimed at extracting KPIs.
+  
+* [Website](https://github.com/brief-ai-uchicago/Brief-AI): Platform's UI/UX.
+  
+* [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
 
 
 
