@@ -4,7 +4,23 @@
 </div>
 
 Brief.AI is an innovative platform tailored to hedge funds and investment banks, revolutionizing insights into
-earnings calls by harnessing large language models.
+earnings calls by harnessing large language models. 
+
+<h1 style="">🤔 Who is Brief.AI?</h1>
+
+Our platform aims to be the voice for any executive and analyst. 
+
+💬 Question Answering over Earnings Call Transcript 🤖
+
+❓ KPI Extractor
+
+<h1 style="">📖 Documentation</h1>
+
+* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert)
+* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset)
+* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf)
+* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf)
+* [Branding](https://github.com/brief-ai-uchicago/Branding)
 
 Distinguished Features of Brief.AI:
 
