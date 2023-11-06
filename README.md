@@ -8,33 +8,23 @@ earnings calls by harnessing large language models.
 
 <h1 style="">🤔 Who is Brief.AI?</h1>
 
-Our platform aims to be the voice for any executive and analyst. 
+Our platform aims to be the voice for any executive or analyst trying to analyze earning call transcripts. 
 
 💬 Question Answering over Earnings Call Transcript 🤖
+* Javi - Intelligent Chatbot: Users can engage in real-time queries regarding specific details from earnings call
+transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
 ❓ KPI Extractor
-
-<h1 style="">📖 Documentation</h1>
-
-* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert)
-* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset)
-* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf)
-* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf)
-* [Branding](https://github.com/brief-ai-uchicago/Branding)
-
-Distinguished Features of Brief.AI:
-
-- Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
+* Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts and annual quarterly filings.
 
-- Comprehensive Topics and Sentiment Analysis: Beyond static numerical data, Brief.AI delves deep into the
-primary themes discussed during earnings calls. An integrated sentiment analysis service provides additional
-layers of understanding, capturing the nuances of the themes discussed with a proprietary metric specifically
-designed to gauge the sentiment of earnings calls.
-
-- Intelligent Chatbot Interface: Users can engage in real-time queries regarding specific details from earnings call
-transcripts and financial statements, including 10K and 10Q documents. This elevates user experience, ensuring
-immediate access to critical information without manual data trawling.
+<h1 style="">📖 Documentation</h1>
+For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
+* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert) (Chatbot)
+* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset) (Dataset for finetuning)
+* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf) (Finetuned model for KPI Extraction)
+* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf) (Finetuned model for KPI Extraction)
+* [Branding](https://github.com/brief-ai-uchicago/Branding) (Branding docs)
 
 ### Organization Structure
 ```
