@@ -23,8 +23,7 @@ immediate access to critical information without manual data trawling.
 ### Organization Structure
 ```
 brief.ai
-|_____ About-Us
-|_____ Brief-AI
+|_____ Brief-AI (https://github.com/brief-ai-uchicago/Brief-AI)
 |_____ Javi-The-Earnings-Call-Expert
 |_____ LongShort-Dataset
 |_____ LongShort-7B-Instruct-hf
