@@ -43,8 +43,11 @@ Our chatbot amplifies the functionality of large language models, empowering use
 📃 **Earnings Calls Analysis:**
 
 - 📚 Concise answers
+  
       - Utilizing cutting-edge language models, our system delivers succinct, structured answers extracted from verbose earnings call transcripts, streamlining the distillation of key performance indicators (KPIs) for analysts and executives.
+  
 - ❓ Effective KPI extraction from long transcripts
+  
       - Extracting data from unstructured sources like PDFs has become crucial for businesses, researchers, and individuals. Traditional manual methods are slow and error-prone, necessitating more efficient alternatives.
 
 For more detailed information on these capabilities and concepts, please refer to our comprehensive product documentation.
