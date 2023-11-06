@@ -8,14 +8,14 @@ earnings calls by harnessing large language models.
 
 <h1 style="">🤔 Who is Brief.AI?</h1>
 
-Our platform aims to be the voice for any executive or analyst on the buy side or sell-side trying to analyze earning call transcripts. 
+Our platform aims to be the voice for any executive or analyst on the buy side or sell-side trying to analyze earning call transcripts through two products: 
 
 💬 **Question Answering over Earnings Call Transcript** 
-* Javi - Intelligent Chatbot: Users can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
+* Javi: The intelligent chatbot can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
 ❓ **KPI Extractor**
-* Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
-from a comprehensive collection of earnings call transcripts and annual quarterly filings.
+* Long-Short: This model efficiently extracts crucial performance indicators and financial metrics
+from a comprehensive collection of earnings call transcripts.
 
 <h1 style="">🚀 What can this help with?</h1>
 
@@ -27,6 +27,10 @@ This pivotal feature of our product revolves around the identification and extra
 
 Our chatbot amplifies the functionality of large language models, empowering users to engage in interactive conversations with earnings calls. This versatile tool serves multiple purposes, such as:
 
+🤖 *Comparison across multiple documents*
+
+The chatbot uses an agent to compare queries that retrieves multiple documents and is able to create a chain of thought reasoning chain to answer queries.
+
 🧠 *Memory:*
 
 Memory refers to persisting state between calls of a large language model. You can continue to ask follow-up questions from initial queries without restating the context.
@@ -35,7 +39,7 @@ Memory refers to persisting state between calls of a large language model. You c
 
 The chatbot provides quick and precise responses to specific questions, making it ideal for extracting timely information from earnings calls.
 
-🤖 *Sentiment Analysis:*
+🚨 *Sentiment Analysis:*
 
 Users can gauge the sentiment and emotional tone of earnings calls, helping them make more informed investment decisions.
 
@@ -43,6 +47,7 @@ For more detailed information on these capabilities and concepts, please refer t
 
 <h1 style="">📖 Documentation</h1>
 For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
+
 
 * [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert) (Chatbot)
 - [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
