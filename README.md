@@ -8,15 +8,38 @@ earnings calls by harnessing large language models.
 
 <h1 style="">🤔 Who is Brief.AI?</h1>
 
-Our platform aims to be the voice for any executive or analyst trying to analyze earning call transcripts. 
+Our platform aims to be the voice for any executive or analyst on the buy side or sell-side trying to analyze earning call transcripts. 
 
-💬 Question Answering over Earnings Call Transcript 🤖
-* Javi - Intelligent Chatbot: Users can engage in real-time queries regarding specific details from earnings call
-transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
+💬 **Question Answering over Earnings Call Transcript** 
+* Javi - Intelligent Chatbot: Users can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
-❓ KPI Extractor
+❓ **KPI Extractor**
 * Advanced-Data Extraction: The platform efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts and annual quarterly filings.
+
+<h1 style="">🚀 What can this help with?</h1>
+
+📃 **Earnings Calls Analysis:**
+
+This pivotal feature of our product revolves around the identification and extraction of financial Key Performance Indicators (KPIs) from earnings calls. Utilizing a finely tuned Language Model (LLM), we offer a fast, reliable, and data-driven approach to analyzing earnings calls. It enables users to effortlessly access vital financial insights, making it an indispensable tool for financial professionals, investors, and anyone interested in extracting valuable data from these calls.
+
+🔗 **Chatbot for Earnings Calls:**
+
+Our chatbot amplifies the functionality of large language models, empowering users to engage in interactive conversations with earnings calls. This versatile tool serves multiple purposes, such as:
+
+🧠 *Memory:*
+
+Memory refers to persisting state between calls of a large language model. You can continue to ask follow-up questions from initial queries without restating the context.
+
+⚡ *Punctual Information:* 
+
+The chatbot provides quick and precise responses to specific questions, making it ideal for extracting timely information from earnings calls.
+
+🤖 *Sentiment Analysis:*
+
+Users can gauge the sentiment and emotional tone of earnings calls, helping them make more informed investment decisions.
+
+For more detailed information on these capabilities and concepts, please refer to our comprehensive product documentation.
 
 <h1 style="">📖 Documentation</h1>
 For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
