@@ -1,5 +1,5 @@
 <div align="center">
-<img  style="vertical-align:middle" src="https://github.com/brief-ai-uchicago/Branding/1.5x/brief_logo_black@1.5x.png" width="100px" height="100px"/> 
+<img  style="vertical-align:middle" src="https://github.com/brief-ai-uchicago/Branding/blob/main/SVG/brief_logo_blue_circle.svg" width="100px" height="100px"/> 
 <h1 style="">Welcome to Brief.AI</h1>
 </div>
 
@@ -63,17 +63,7 @@ For a complete guide to the documentation, please follow the steps outlined belo
 - [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
 
 
-### Organization Structure
-```
-brief.ai
-|_____ [Brief.AI](https://github.com/brief-ai-uchicago/Brief-AI)
-|_____ Javi-The-Earnings-Call-Expert
-|_____ LongShort-Dataset
-|_____ LongShort-7B-Instruct-hf
-|_____ LongShort-13B-Instruct-hf
-|_____ Branding
-```
-[Brief.AI]
+
 
 
 
