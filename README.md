@@ -53,7 +53,7 @@ Our chatbot amplifies the functionality of large language models, empowering use
 For more detailed information on these capabilities and concepts, please refer to our comprehensive product documentation.
 
 <h1 style="">📖 Documentation</h1>
-For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
+For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub organization:
 
 
 * [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert): Chatbot powered by langchain.
