@@ -13,14 +13,14 @@ Our platform aims to be the voice for any executive or analyst on the buy side o
 💬 **Javi - Question Answering over Earnings Call Transcript** 
 * The intelligent chatbot can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
-🧐 **Long-Short - KPI Extractor**
+📃 **Long-Short - KPI Extractor**
 * This model efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts.
 
 <h1 style="">🚀 What can this help with?</h1>
 
 
-🔗 **Chatbot for Earnings Calls:**
+💬 **Chatbot for Earnings Calls:**
 
 Our chatbot amplifies the functionality of large language models, empowering users to engage in interactive conversations with earnings calls. This versatile tool serves multiple purposes, such as:
 
@@ -46,7 +46,7 @@ Our chatbot amplifies the functionality of large language models, empowering use
   
     - Utilizing cutting-edge language models, our system delivers succinct, structured answers extracted from verbose earnings call transcripts, streamlining the distillation of key performance indicators (KPIs) for analysts and executives.
   
-- ❓ Effective KPI extraction from long transcripts
+- 🧐 Effective KPI extraction from long transcripts
   
     - Extracting data from unstructured sources like PDFs has become crucial for businesses, researchers, and individuals. Traditional manual methods are slow and error-prone, necessitating more efficient alternatives.
 
