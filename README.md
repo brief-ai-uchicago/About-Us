@@ -17,6 +17,9 @@ Our platform aims to be the voice for any executive or analyst on the buy side o
 * This model efficiently extracts crucial performance indicators and financial metrics
 from a comprehensive collection of earnings call transcripts.
 
+![image](https://github.com/brief-ai-uchicago/About-Us/assets/105491876/416c81f6-dc1a-42ab-9908-cadfde8a77c9)
+
+
 <h1 style="">🚀 What can this help with?</h1>
 
 
