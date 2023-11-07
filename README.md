@@ -10,7 +10,7 @@ earnings calls by harnessing large language models.
 
 Our platform aims to be the voice for any executive or analyst on the buy side or sell-side trying to analyze earning call transcripts through two products: 
 
-💬 **[Javi - Question Answering over Earnings Call Transcript](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert)** 
+💬 **[Javi - Question Answering over Earnings Call Transcript](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert)**
 * The intelligent chatbot can engage in real-time queries regarding specific details from earnings call transcripts. This elevates user experience, ensuring immediate access to critical information without manual data trawling.
 
 📃 **[Long-Short - KPI Extractor](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf)**
