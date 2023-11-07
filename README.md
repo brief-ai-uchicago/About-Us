@@ -56,7 +56,7 @@ For more detailed information on these capabilities and concepts, please refer t
 For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repository:
 
 
-* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert): Chatbot powered by langchain
+* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert): Chatbot powered by langchain.
   
 * [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
   
