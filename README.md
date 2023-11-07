@@ -71,7 +71,9 @@ For a complete guide to the documentation, please follow the steps outlined belo
   
 * [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
 
+## <h1 style=""> 🚀 Your Next Stop</h1>
 
+* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert): Chatbot powered by langchain.
 
 
 
