@@ -1,5 +1,8 @@
 <div align="center">
-<img  style="vertical-align:middle" src="![image](https://github.com/brief-ai-uchicago/About-Us/assets/105491876/b42834d0-4d5d-4e3f-aca4-ce21bd2c7da2)" width="100px" height="100px"/> 
+   
+![image](https://github.com/brief-ai-uchicago/About-Us/assets/105491876/8163268d-2c6b-4b58-beb1-76d482e7d4b7)
+
+   
 <h1 style="">Welcome to Brief.AI</h1>
 </div>
 
