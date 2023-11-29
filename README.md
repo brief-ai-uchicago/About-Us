@@ -49,7 +49,7 @@ Our chatbot amplifies the functionality of large language models, empowering use
 
     - Users can gauge the sentiment and emotional tone of earnings calls, helping them make more informed investment decisions.
 
-📃 **[Earnings Calls Analysis:](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf)**
+📃 **[Detailed Earnings Calls Analysis:](https://github.com/brief-ai-uchicago/LongShort)**
 
 - 📚 Concise answers
   
