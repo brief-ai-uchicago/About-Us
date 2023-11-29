@@ -69,10 +69,8 @@ For a complete guide to the documentation, please follow the steps outlined belo
   
 * [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
   
-* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf): A fine-tuned model designed for KPI (Key Performance Indicators) extraction.
-  
-* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf): A fine-tuned model aimed at extracting KPIs.
-  
+* [LongShort](https://github.com/brief-ai-uchicago/LongShort): Fine-tuned models designed for KPI (Key Performance Indicators) extraction from earnings call transcripts.
+    
 * [Website](https://github.com/brief-ai-uchicago/Brief-AI): Platform's UI/UX.
   
 * [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
