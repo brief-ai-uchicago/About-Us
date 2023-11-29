@@ -1,5 +1,5 @@
 <div align="center">
-<img  style="vertical-align:middle" src="https://github.com/brief-ai-uchicago/Branding/blob/main/SVG/brief_logo_blue_circle.svg" width="100px" height="100px"/> 
+<img  style="vertical-align:middle" src="![image](https://github.com/brief-ai-uchicago/About-Us/assets/105491876/b42834d0-4d5d-4e3f-aca4-ce21bd2c7da2)" width="100px" height="100px"/> 
 <h1 style="">Welcome to Brief.AI</h1>
 </div>
 
