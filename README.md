@@ -69,8 +69,18 @@ For a complete guide to the documentation, please follow the steps outlined belo
   
 * [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
   
-* [LongShort](https://github.com/brief-ai-uchicago/LongShort): Fine-tuned models designed for KPI (Key Performance Indicators) extraction from earnings call transcripts.
-    
+* [LongShort](https://github.com/brief-ai-uchicago/LongShort): Fine-tuned script for models designed for KPI (Key Performance Indicators) extraction from earnings call transcripts.
+
+* [LongShort-Mistral-7B](https://github.com/brief-ai-uchicago/LongShort-Mistral-7B): Our model card for fine-tuned version of Mistral-7B.
+
+* [LongShort-Dolly-2-7B](https://github.com/brief-ai-uchicago/LongShort-Dolly-2-7B): Our model card for fine-tuned version of Dolly-2-7B.
+
+* [LongShort-Llama-2-7B](https://github.com/brief-ai-uchicago/LongShort-Llama-2-7B/): Our model card for fine-tuned version of Llama-2-7B.
+
+* [LongShort-Llama-2-13B](https://github.com/brief-ai-uchicago/LongShort-Llama-2-13B): Our model card for fine-tuned version of Llama-2-13B.
+
+* [LongShort-Mistral-7B](https://github.com/brief-ai-uchicago/LongShort-Falcon-7B): Our model card for fine-tuned version of Falcon-7B.
+
 * [Website](https://github.com/brief-ai-uchicago/Brief-AI): Platform's UI/UX.
   
 * [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
