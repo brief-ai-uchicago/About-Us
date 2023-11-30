@@ -79,7 +79,7 @@ For a complete guide to the documentation, please follow the steps outlined belo
 
 * [LongShort-Llama-2-13B](https://github.com/brief-ai-uchicago/LongShort-Llama-2-13B): Our model card for fine-tuned version of Llama-2-13B.
 
-* [LongShort-Mistral-7B](https://github.com/brief-ai-uchicago/LongShort-Falcon-7B): Our model card for fine-tuned version of Falcon-7B.
+* [LongShort-Falcon-7B](https://github.com/brief-ai-uchicago/LongShort-Falcon-7B): Our model card for fine-tuned version of Falcon-7B.
 
 * [Website](https://github.com/brief-ai-uchicago/Brief-AI): Platform's UI/UX.
   
